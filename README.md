@@ -15,4 +15,4 @@ A lightweight Command Line Interface (CLI) tool designed to solve fundamental ph
 2. Clone this repository.
 3. Run the script using:
    ```bash
-   python physics_calculator.py
+   python Physics-Calculator.py

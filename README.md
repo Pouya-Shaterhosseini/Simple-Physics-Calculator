@@ -1,5 +1,4 @@
 # Simple-Physics-Calculator
-# Simple Physics Calculator
 
 A lightweight Command Line Interface (CLI) tool designed to solve fundamental physics equations. This project demonstrates basic Python logic, user input handling, and mathematical operations.
 
